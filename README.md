@@ -2,6 +2,11 @@
 
 Hiển thị đồng hồ dạng kim và chữ số, đếm giờ, đếm ngược giờ và hiển thị GMT.
 
+## Thành viên và vai trò
+- Lê Minh Đức: trưởng nhóm, code phần đồng hồ kim (logic)
+- Hoàng Nghĩa Huy: code phần đếm giờ, umt (logic)
+- Nguyễn Công Phú: tester, sửa bug, code phần kim cho đếm giờ
+
 ## Tổng quan dự án
 - **Kiểu:** Windows Forms App (.NET Framework)
 - **Mục đích:** hiển thị giờ hiện tại, đếm giờ, đếm ngược giờ và GMT.
